@@ -85,4 +85,4 @@ npm run dev
 ![HomePage](https://i.postimg.cc/gkx2vjfx/Action-Plan.png)
 
 #<h2>Deployed Link</h2>
-<a href="https://actionplaner.netlify.app/"  target="_blank">Live Demo</a>
+<a href="https://actionplaner.netlify.app/"  target="_blank" rel="noopener noreferrer">Live Demo</a>
